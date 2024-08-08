@@ -15,7 +15,7 @@ The **Automatic Traffic Management System (ATMS)** is a machine learning project
 ## Technology Stack
 
 - **Programming Language**: Python
-- **Machine Learning Framework**: YOLO v8.2
+- **Machine Learning Framework**: YOLO v8.2x (x-large model)
 - **Tools**: OpenCV, NumPy, Pandas
 - **Model Training**: Kaggle Notebooks
 
